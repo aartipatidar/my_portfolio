@@ -273,6 +273,11 @@ section .title::after{
     background: #111;
     content: "Academics";
 }
+
+.education .edu-content {
+    align-items: stretch;
+}
+
 .education .edu-content .card{
     width: calc(33% - 20px);
     background: #222;
